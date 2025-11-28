@@ -1,4 +1,5 @@
 # Desafio Técnico – Automação de Testes de API (Cypress)
+![CI](https://github.com/janaeufrasio/desafio-api-inmetrics/actions/workflows/cypress-api-ci.yml/badge.svg)
 
 Projeto desenvolvido para o Desafio Técnico da Inmetrics, contendo automação da API Serverest utilizando:
 
